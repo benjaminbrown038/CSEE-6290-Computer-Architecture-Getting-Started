@@ -1,1 +1,1 @@
-# CSEE-6290-Computer-Architecture-Getting-Started-
+# CSEE-6290-Computer-Architecture-Getting-Started

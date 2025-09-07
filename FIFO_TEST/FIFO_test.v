@@ -1,3 +1,15 @@
+/* 
+Put this somewhere:
+initial
+begin
+$dumpvars(0,test);
+clk = 0; in = 1; out = 0;
+fifo[3] = 0; fifo[2] = 0; fifo[1] = 0; fifo[0] = 0;
+*/
+
+
+
+
 module test();
 reg clk, in, out;
 reg [3:0] fifo;
